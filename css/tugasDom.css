@@ -1,0 +1,17 @@
+#boxContainer{
+    text-align: center;
+}
+.box-style{
+    width: 200px;
+    height: 200px;
+    border : 2px solid #D3DEDC;
+    display    : inline-block;
+    margin     : 0 20px;
+    font-size   : 18px;
+    padding-top : 12px;
+    font-weight : bold;
+}
+.box-style-spesial{
+    display : block;
+    margin : 20px auto;
+}
